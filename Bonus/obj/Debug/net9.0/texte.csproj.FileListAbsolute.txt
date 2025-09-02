@@ -1,0 +1,14 @@
+C:\Users\54261396874\Desktop\texte\bin\Debug\net9.0\texte.exe
+C:\Users\54261396874\Desktop\texte\bin\Debug\net9.0\texte.deps.json
+C:\Users\54261396874\Desktop\texte\bin\Debug\net9.0\texte.runtimeconfig.json
+C:\Users\54261396874\Desktop\texte\bin\Debug\net9.0\texte.dll
+C:\Users\54261396874\Desktop\texte\bin\Debug\net9.0\texte.pdb
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.AssemblyInfoInputs.cache
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.AssemblyInfo.cs
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.csproj.CoreCompileInputs.cache
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.dll
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\refint\texte.dll
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.pdb
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\texte.genruntimeconfig.cache
+C:\Users\54261396874\Desktop\texte\obj\Debug\net9.0\ref\texte.dll

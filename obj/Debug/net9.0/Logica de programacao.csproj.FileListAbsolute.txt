@@ -1,0 +1,14 @@
+C:\Users\54261396874\Desktop\Logica de programacao\bin\Debug\net9.0\Logica de programacao.exe
+C:\Users\54261396874\Desktop\Logica de programacao\bin\Debug\net9.0\Logica de programacao.deps.json
+C:\Users\54261396874\Desktop\Logica de programacao\bin\Debug\net9.0\Logica de programacao.runtimeconfig.json
+C:\Users\54261396874\Desktop\Logica de programacao\bin\Debug\net9.0\Logica de programacao.dll
+C:\Users\54261396874\Desktop\Logica de programacao\bin\Debug\net9.0\Logica de programacao.pdb
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.AssemblyInfoInputs.cache
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.AssemblyInfo.cs
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.csproj.CoreCompileInputs.cache
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.dll
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\refint\Logica de programacao.dll
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.pdb
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\Logica de programacao.genruntimeconfig.cache
+C:\Users\54261396874\Desktop\Logica de programacao\obj\Debug\net9.0\ref\Logica de programacao.dll
